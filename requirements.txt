@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-groq
+python-dotenv
+pandasai
+polars
+scikit-learn==1.2.2
+pandas
+numpy
+matplotlib
+cohere
+langchain_experimental
+tabulate
